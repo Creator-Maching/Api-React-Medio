@@ -17,3 +17,8 @@ Uma aplicação React / Vite para buscar espécies (animais, fungos, etc) usando
 - Vite (build rápido)  
 - Tailwind CSS (estilização)  
 - iNaturalist e wikipedia (de API) para buscar dados de espécies  
+
+## Site responsivo
+
+link: https://creator-maching.github.io/Api-React-Medio/
+
